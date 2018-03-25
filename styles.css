@@ -1,0 +1,39 @@
+/* add your CSS here */
+#animal-card {
+	width: 300px;
+	/* margin: auto;
+	transform: rotate(90deg); */
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777;
+	padding: 0px 10px 10px;
+	box-shadow: 5px 5px 20px #777;
+	border-radius: 10px 10px 10px 10px;
+}
+#all-information {
+	width: 278px; 
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777;
+	padding: 5px 10px;
+	border-radius: 0px 0px 10px 10px;
+}
+img{
+	padding-bottom: 10px;
+	border-radius: 10px 10px 0px 0px;
+}
+.interesting-facts{
+	font-style: italic;
+}
+.labels{
+	font-weight: bold;
+}
+ul{
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+.source-texts{
+	font-style: italic;
+	font-size: 12px
+}
